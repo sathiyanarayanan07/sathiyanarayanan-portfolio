@@ -1,5 +1,5 @@
 import { useEffect, useState } from "react";
-import halloween from "./assets/halloween.png";
+import halloween from "./assets/pngwing.com.png";
 
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
