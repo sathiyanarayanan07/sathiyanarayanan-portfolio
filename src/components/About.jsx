@@ -8,7 +8,7 @@ export default function About() {
 
         {/* Title */}
         <h2 className="text-2xl sm:text-3xl md:text-4xl font-semibold mb-8 sm:mb-10">
-          About Me toi
+          About Me to
         </h2>
 
         {/* Card */}
