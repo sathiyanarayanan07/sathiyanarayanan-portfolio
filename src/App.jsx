@@ -1,4 +1,5 @@
 import { useEffect, useState } from "react";
+import halloween from "./assets/halloween.png";
 
 import Navbar from "./components/Navbar";
 import Hero from "./components/Hero";
@@ -23,7 +24,7 @@ export default function App() {
       <div className="h-screen w-full bg-black flex items-center justify-center">
         <div className="text-center">
           <img
-            src="/halloween.png"
+            src={halloween}
             alt="Batman Logo"
             className="w-32 mx-auto animate-pulse"
           />
