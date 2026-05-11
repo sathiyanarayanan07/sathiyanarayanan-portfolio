@@ -23,7 +23,7 @@ export default function App() {
       <div className="h-screen w-full bg-black flex items-center justify-center">
         <div className="text-center">
           <img
-            src="\src\assets\pngwing.com.png"
+            src="\src\assets\halloween.png"
             alt="Batman Logo"
             className="w-32 mx-auto animate-pulse"
           />
